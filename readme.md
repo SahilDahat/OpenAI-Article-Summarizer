@@ -1,5 +1,6 @@
 # Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![Uploading Screenshot 2023-07-22 032303.jpg…]()
+
+![Screenshot 2023-07-22 032303](https://github.com/SahilDahat/OpenAI-Article-Summarizer/assets/90909938/90481e95-1445-4a4f-98b4-960666c42346)
 
 ## Introduction
 If you're a solo developer in 2023, you have the power to build robust AI software startups! Here,we have made an Article Summarizer Application using OpenAI's GPT model.
