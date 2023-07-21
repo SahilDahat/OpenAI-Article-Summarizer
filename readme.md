@@ -11,3 +11,5 @@ Alongside building this application, you'll also learn how to:
 - handle form events and catch errors
 - implement copy to clipboard
 - write clean code
+
+https://rapidapi.com/restyler/api/article-extractor-and-summarizer

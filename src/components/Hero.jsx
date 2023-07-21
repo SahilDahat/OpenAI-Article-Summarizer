@@ -8,7 +8,7 @@ const Hero = () => {
         <img src={logo} alt='sumz_logo' className='w-28 object-contain' />
 
         <button type='button' onClick={() =>
-          window.open("https://github.com/TidbitsJS/Summize", "_blank")
+          window.open("https://github.com/SahilDahat/OpenAI-Article-Summarizer", "_blank")
         } className='black_btn'>
           GitHub
         </button>
